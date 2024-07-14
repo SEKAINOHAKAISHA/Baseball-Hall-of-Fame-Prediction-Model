@@ -7,7 +7,7 @@ Baseball Hall of Fame predictor using KNN algorithm
 
 Credits : Ryan Nolan Data  
 
-YT channel link : https://www.youtube.com/@RyanNolanData  
+His YT channel link : https://www.youtube.com/@RyanNolanData  
 
-
-Note : The error seen in code is due to codespace, this program runs well for local machine
+Note 1 : I m not him. I am just using channel and resources to learn ML
+Note 2 : The error seen in code is due to codespace, this program runs well for local machine
